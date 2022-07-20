@@ -15,8 +15,11 @@ If you want to learn more about how to create your first Sphinx project, read on
    :maxdepth: 2
    :caption: Contents:
 
+   modules
+
    beforeyoubegin
 
+   
 
 
 Indices and tables
